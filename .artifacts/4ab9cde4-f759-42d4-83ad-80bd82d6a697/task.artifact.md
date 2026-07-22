@@ -1,0 +1,6 @@
+- [ ] Update `libs.versions.toml` with `kotlin-android` plugin
+- [ ] Update root `build.gradle.kts` with `kotlin-android` plugin
+- [ ] Update `app/build.gradle.kts` with `kotlin-android` plugin
+- [ ] Run Gradle Sync
+- [ ] Fix `MainActivity.kt` warnings and unresolved references
+- [ ] Verify with `analyze_file` and `gradle_build`
